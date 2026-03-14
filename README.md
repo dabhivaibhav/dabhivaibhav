@@ -37,48 +37,28 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 <tr>
 <td width="50%">
 
-**Discussion → Execution**  
-Planning, design & delivery  
-⚠️ 📢 📄 📅 🔄 🏗️
-
 **Coding**  
 Languages, architecture & APIs  
-☕ 🍃 🐍 📘 🔌 📐
+<img src="https://cdn.simpleicons.org/java/ED8B00" width="22" height="22" alt="Java" /> <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="22" height="22" alt="Spring Boot" /> <img src="https://cdn.simpleicons.org/python/3776AB" width="22" height="22" alt="Python" /> <img src="https://cdn.simpleicons.org/typescript/3178C6" width="22" height="22" alt="TypeScript" /> <img src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" alt="React" />
 
-**Quality & Testing**  
-Reliability before ship  
-✅ 🔗 👀 ⚡
+**Cloud & Infrastructure**  
+Scale, reliability & reach  
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="22" height="22" alt="AWS" /> <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="22" height="22" alt="Azure" /> <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="22" height="22" alt="Kubernetes" /> <img src="https://cdn.simpleicons.org/docker/2496ED" width="22" height="22" alt="Docker" />
 
 </td>
 <td width="50%">
 
-**Cloud & Infrastructure**  
-Scale, reliability & reach  
-☁️ 🔷 ☸️ 🐳 ⚡ 📜
-
 **Deployment & Ops**  
 Ship and run at scale  
-🔄 ⚙️ 📊 📈
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="22" height="22" alt="GitHub Actions" /> <img src="https://cdn.simpleicons.org/git/F05032" width="22" height="22" alt="Git" />
 
 **AI / ML**  
 Intelligent systems & data  
-🐍 🤖 🧠 📊 💬 🔀
+<img src="https://cdn.simpleicons.org/python/3776AB" width="22" height="22" alt="Python" /> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="22" height="22" alt="TensorFlow" /> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="22" height="22" alt="Scikit-learn" /> <img src="https://cdn.simpleicons.org/pandas/150458" width="22" height="22" alt="Pandas" /> <img src="https://cdn.simpleicons.org/numpy/013243" width="22" height="22" alt="NumPy" />
 
 </td>
 </tr>
 </table>
-
-<details>
-<summary>📌 Tech legend</summary>
-
-Discussion & Execution: Risk assessment · Communication · Docs · Sprint planning · Agile · System design  
-Coding: Java · Spring Boot · Python · TypeScript · REST APIs · Clean architecture  
-Quality: TDD · Integration testing · Code reviews · Performance testing  
-Cloud: AWS · Azure · Kubernetes · Docker · Serverless · IaC  
-Ops: CI/CD · GitHub Actions · Monitoring · Auto-scaling  
-AI/ML: Python · Machine learning · TensorFlow · Scikit-learn · NLP · Data pipelines
-
-</details>
 
 ---
 
@@ -100,12 +80,12 @@ AI/ML: Python · Machine learning · TensorFlow · Scikit-learn · NLP · Data p
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**ZenDSA**](https://zendsa.vercel.app/) | Spaced-repetition–driven DSA learning app. Structured by topics (recursion, DP, sliding window) for retention and interview readiness. | ⚛️ 📘 ☕ 🍃 🐳 🤖 |
-| [**Interview Management System**](https://github.com/dabhivaibhav/interview-management-system) | Full-stack app for 500+ weekly applications with JWT auth; reduced hiring cycle time by 30%. | 🍃 ⚛️ 🔑 🐳 ☸️ |
-| [**Revive And Rewear (RWR)**](https://github.com/dabhivaibhav/Revive_And_Rewear) | Scalable e-commerce platform with three role-specific dashboards and 2FA for secure transactions. | ⚛️ ⚡ 🐍 🍃 |
-| [**Network Device Detection via ML**](https://github.com/dabhivaibhav/MachineLearningIOTDeviceIdentification) | Supervised ML pipeline to classify IoT devices from PCAP data; 100% classification accuracy with Random Forest. | 🐍 📊 🌲 🤖 |
-| [**Workforce Software**](https://github.com/dabhivaibhav) | Payroll system with SQL scripts, triggers, and procedures; 25% faster processing, 30% fewer errors for 2,000+ employees. | 🗄️ 📈 📋 |
-| [**DSA Repository**](https://github.com/dabhivaibhav/dsa) | Structured archive of Data Structures & Algorithms in Java—clean solutions, edge cases, interview-style thinking. | ☕ 📐 🧩 |
+| [**ZenDSA**](https://zendsa.vercel.app/) | Spaced-repetition–driven DSA learning app. Structured by topics (recursion, DP, sliding window) for retention and interview readiness. | <img src="https://cdn.simpleicons.org/react/61DAFB" width="20" height="20" alt="React" /> <img src="https://cdn.simpleicons.org/typescript/3178C6" width="20" height="20" alt="TypeScript" /> <img src="https://cdn.simpleicons.org/java/ED8B00" width="20" height="20" alt="Java" /> <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="20" height="20" alt="Spring Boot" /> <img src="https://cdn.simpleicons.org/docker/2496ED" width="20" height="20" alt="Docker" /> |
+| [**Interview Management System**](https://github.com/dabhivaibhav/interview-management-system) | Full-stack app for 500+ weekly applications with JWT auth; reduced hiring cycle time by 30%. | <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="20" height="20" alt="Spring Boot" /> <img src="https://cdn.simpleicons.org/react/61DAFB" width="20" height="20" alt="React" /> <img src="https://cdn.simpleicons.org/docker/2496ED" width="20" height="20" alt="Docker" /> <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="20" height="20" alt="Kubernetes" /> |
+| [**Revive And Rewear (RWR)**](https://github.com/dabhivaibhav/Revive_And_Rewear) | Scalable e-commerce platform with three role-specific dashboards and 2FA for secure transactions. | <img src="https://cdn.simpleicons.org/react/61DAFB" width="20" height="20" alt="React" /> <img src="https://cdn.simpleicons.org/fastapi/009688" width="20" height="20" alt="FastAPI" /> <img src="https://cdn.simpleicons.org/python/3776AB" width="20" height="20" alt="Python" /> <img src="https://cdn.simpleicons.org/mongodb/47A248" width="20" height="20" alt="MongoDB" /> |
+| [**Network Device Detection via ML**](https://github.com/dabhivaibhav/MachineLearningIOTDeviceIdentification) | Supervised ML pipeline to classify IoT devices from PCAP data; 100% classification accuracy with Random Forest. | <img src="https://cdn.simpleicons.org/python/3776AB" width="20" height="20" alt="Python" /> <img src="https://cdn.simpleicons.org/pandas/150458" width="20" height="20" alt="Pandas" /> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="20" height="20" alt="Scikit-learn" /> |
+| [**Workforce Software**](https://github.com/dabhivaibhav) | Payroll system with SQL scripts, triggers, and procedures; 25% faster processing, 30% fewer errors for 2,000+ employees. | <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="20" height="20" alt="PostgreSQL" /> <img src="https://cdn.simpleicons.org/java/ED8B00" width="20" height="20" alt="Java" /> |
+| [**DSA Repository**](https://github.com/dabhivaibhav/dsa) | Structured archive of Data Structures & Algorithms in Java—clean solutions, edge cases, interview-style thinking. | <img src="https://cdn.simpleicons.org/java/ED8B00" width="20" height="20" alt="Java" /> |
 
 ---
 
