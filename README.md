@@ -58,10 +58,10 @@
 <td align="center" width="25%"><img src="https://img.shields.io/badge/Chicago,_IL-475569?style=for-the-badge" height="28" /></td>
 </tr>
 <tr>
-<td align="center">**Now**</td>
-<td align="center">**Focus**</td>
-<td align="center">**Open to**</td>
-<td align="center">**Where**</td>
+<td align="center"><b>Now</b></td>
+<td align="center"><b>Focus</b></td>
+<td align="center"><b>Open to</b></td>
+<td align="center"><b>Where</b></td>
 </tr>
 </table>
 
@@ -75,8 +75,8 @@
 <td align="center" width="50%"><img src="https://img.shields.io/badge/Agentic_AI_·_Kubernetes_·_System_Design_·_ML-5b21b6?style=for-the-badge" height="28" /></td>
 </tr>
 <tr>
-<td align="center">**🔬 Building**</td>
-<td align="center">**📚 Learning**</td>
+<td align="center"><b>🔬 Building</b></td>
+<td align="center"><b>📚 Learning</b></td>
 </tr>
 </table>
 
