@@ -20,24 +20,35 @@
 
 <br />
 
-| <img src="https://img.shields.io/badge/4%2B_Years-475569?style=for-the-badge" height="52" /> | <img src="https://img.shields.io/badge/15%2B_Projects-5b21b6?style=for-the-badge" height="52" /> | <img src="https://img.shields.io/badge/99%25_Focus-0f766e?style=for-the-badge" height="52" /> | <img src="https://img.shields.io/badge/Open_to_Work-475569?style=for-the-badge&logo=linkedin&logoColor=94a3b8" height="52" /> |
-|:---:|:---:|:---:|:---:|
-| <h4>Experience</h4> | <h4>Shipped</h4> | <h4>Quality</h4> | <h4>Status</h4> |
+<table>
+<tr>
+<td align="center"><h3>4+ Years</h3></td>
+<td align="center"><h3>15+ Projects</h3></td>
+<td align="center"><h3>99% Focus</h3></td>
+<td align="center"><h3>Open to Work</h3></td>
+</tr>
+<tr>
+<td align="center"><strong>Experience</strong></td>
+<td align="center"><strong>Shipped</strong></td>
+<td align="center"><strong>Quality</strong></td>
+<td align="center"><strong>Status</strong></td>
+</tr>
+</table>
 
 <br />
 
 <table>
 <tr>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/GTA_@_Illinois_State-475569?style=for-the-badge" height="52" /></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/Microservices_·_K8s_·_AI/ML-5b21b6?style=for-the-badge" height="52" /></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/Backend_·_Full--stack_·_AI/ML-0f766e?style=for-the-badge" height="52" /></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/Chicago,_IL-475569?style=for-the-badge" height="52" /></td>
+<td align="center"><h3>GTA @ Illinois State</h3></td>
+<td align="center"><h3>Microservices · K8s · AI/ML</h3></td>
+<td align="center"><h3>Backend · Full-stack · AI/ML</h3></td>
+<td align="center"><h3>Chicago, IL</h3></td>
 </tr>
 <tr>
-<td align="center"><h4>Now</h4></td>
-<td align="center"><h4>Focus</h4></td>
-<td align="center"><h4>Open to</h4></td>
-<td align="center"><h4>Where</h4></td>
+<td align="center"><strong>Now</strong></td>
+<td align="center"><strong>Focus</strong></td>
+<td align="center"><strong>Open to</strong></td>
+<td align="center"><strong>Where</strong></td>
 </tr>
 </table>
 
@@ -73,12 +84,12 @@
 
 <table>
 <tr>
-<td align="center" width="50%"><img src="https://img.shields.io/badge/ZenDSA_·_Microservices_·_Clean_Architecture-475569?style=for-the-badge" height="52" /></td>
-<td align="center" width="50%"><img src="https://img.shields.io/badge/Agentic_AI_·_Kubernetes_·_System_Design_·_ML-5b21b6?style=for-the-badge" height="52" /></td>
+<td align="center"><h3>ZenDSA · Microservices · Clean Architecture</h3></td>
+<td align="center"><h3>Agentic AI · Kubernetes · System Design · ML</h3></td>
 </tr>
 <tr>
-<td align="center"><h4>🔬 Building</h4></td>
-<td align="center"><h4>📚 Learning</h4></td>
+<td align="center"><strong>🔬 Building</strong></td>
+<td align="center"><strong>📚 Learning</strong></td>
 </tr>
 </table>
 
