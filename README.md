@@ -34,25 +34,30 @@
 
 ## ✦ About Me
 
-*I build systems that stay up and teams that ship faster.*
+<div align="center">
 
-**High-Availability Architect** and **Pedagogical Technical Leader** with **4+ years** in enterprise Java and full-stack systems. I’ve run production at scale—**99.99% uptime**, Kubernetes, Spring Boot microservices—and led teams of **5+** with **20% faster delivery**; cut hiring cycle by **30%** with a custom [Interview Management System](https://github.com/dabhivaibhav/Interview-Management-System) that streamlines technical interviews.
+<img src="https://img.shields.io/badge/▸_High--Availability_Architect-0F172A?style=for-the-badge&labelColor=06B6D4&color=22D3EE" alt="Role" /> &nbsp; <img src="https://img.shields.io/badge/▸_Pedagogical_Leader-0F172A?style=for-the-badge&labelColor=8B5CF6&color=A78BFA" alt="Leader" />
 
-I connect **distributed systems reliability** with **agentic AI** and **ML**: from compliance-critical backend (100% data integrity in regulatory reports) to **Graduate Teaching Assistant** at Illinois State University, where I mentor **30+** students in Java and DSA. I also maintain a structured [DSA repo](https://github.com/dabhivaibhav/dsa) (recursion, DP, sliding window) built for spaced repetition and interview prep.
+</div>
 
-<table>
-<tr>
-<td align="center"><code>Backend</code></td>
-<td align="center"><code>Systems</code></td>
-<td align="center"><code>AI & ML</code></td>
-<td align="center"><code>Teaching</code></td>
-</tr>
-</table>
+<br />
 
-- 🔭 **Currently:** Graduate Teaching Assistant @ Illinois State University
-- 🌱 **Focus:** Microservices, Kubernetes, AI/ML pipelines, clean architecture
-- 💬 **Open to:** Backend, full-stack, and AI/ML collaborations
-- 📍 **Location:** Chicago, IL
+> **⚡** *I build systems that stay up and teams that ship faster.*
+
+**4+ years** in enterprise Java and full-stack · Production at scale (**99.99% uptime**, Kubernetes, Spring Boot) · Led **5+** with **20% faster delivery** · Cut hiring cycle **30%** with a custom [Interview Management System](https://github.com/dabhivaibhav/Interview-Management-System).
+
+Bridging **distributed systems** ↔ **agentic AI & ML**: compliance-critical backend (100% data integrity) → **GTA @ Illinois State**, mentoring **30+** in Java & DSA · Structured [DSA repo](https://github.com/dabhivaibhav/dsa) for spaced repetition & interview prep.
+
+<br />
+
+| <img src="https://img.shields.io/badge/Backend-06B6D4?style=flat-square&logo=server" height="22" /> | <img src="https://img.shields.io/badge/Systems-8B5CF6?style=flat-square&logo=kubernetes" height="22" /> | <img src="https://img.shields.io/badge/AI_%26_ML-22D3EE?style=flat-square&logo=tensorflow" height="22" /> | <img src="https://img.shields.io/badge/Teaching-A78BFA?style=flat-square&logo=book" height="22" /> |
+|:---:|:---:|:---:|:---:|
+
+<br />
+
+| 🔭 **Now** | 🌱 **Focus** | 💬 **Open to** | 📍 **Where** |
+|:---|:---|:---|:---|
+| GTA @ Illinois State | Microservices · K8s · AI/ML · Clean arch | Backend · Full‑stack · AI/ML | Chicago, IL |
 
 ---
 
@@ -84,14 +89,6 @@ I connect **distributed systems reliability** with **agentic AI** and **ML**: fr
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30" alt="VS Code" /> &nbsp; <img src="https://img.shields.io/badge/IntelliJ-000?style=for-the-badge&logo=intellijidea&logoColor=white" height="30" alt="IntelliJ" /> &nbsp; <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java" /> &nbsp; <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="30" alt="Spring Boot" /> &nbsp; <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30" alt="React" /> &nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="HTML5" /> &nbsp; <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" alt="Bootstrap" /> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="CSS3" /> &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" alt="JavaScript" /> &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="TypeScript" /> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="Linux" /> &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git" /> &nbsp; <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="MongoDB" /> &nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="MySQL" /> &nbsp; <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" alt="Node.js" /> &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Python" /> &nbsp; <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="30" alt="Maven" /> &nbsp; <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="30" alt="Redis" /> &nbsp; <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="30" alt="Jira" />
 
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="30" alt="GraphQL" /> &nbsp; <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker" /> &nbsp; <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="30" alt="Kubernetes" /> &nbsp; <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="30" alt="AWS" /> &nbsp; <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="30" alt="Azure" /> &nbsp; <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="30" alt="GitHub Actions" /> &nbsp; <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30" alt="FastAPI" /> &nbsp; <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL" /> &nbsp; <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30" alt="TensorFlow" /> &nbsp; <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30" alt="Scikit-learn" /> &nbsp; <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30" alt="Pandas" /> &nbsp; <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30" alt="NumPy" />
-
----
-
-## ✦ By the numbers
-
-| 4+ years experience | 15+ projects shipped | 30+ students mentored | 99.99% uptime achieved |
-|:-------------------:|:--------------------:|:---------------------:|:----------------------:|
-| Backend & full-stack | From idea to production | Java & DSA @ ISU | Production systems |
 
 ---
 

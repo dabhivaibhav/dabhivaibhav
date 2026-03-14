@@ -1,0 +1,16 @@
+---
+description: Always commit and push changes to the GitHub repo after making edits
+alwaysApply: true
+---
+
+# Commit and push changes
+
+After making any changes to files in this repository:
+
+1. **Stage** the changed files (e.g. `git add .` or `git add <file>`).
+2. **Commit** with a short, descriptive message that summarizes what changed (e.g. "Add CLI typing intro", "Fix About section layout").
+3. **Push** to the remote: `git push origin <branch>` (typically `main`).
+
+Do not leave the user to commit or push manually—run the git commands in the project directory so changes are committed and pushed to the GitHub repo.
+
+Use PowerShell-compatible syntax in this workspace (e.g. `;` instead of `&&` for chaining commands).
