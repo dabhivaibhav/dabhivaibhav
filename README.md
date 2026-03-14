@@ -65,7 +65,7 @@
 
 | **🔬 Building** | **📚 Learning** |
 |:---:|:---:|
-| ZenDSA · Microservices · Clean Architecture | Agentic AI · Kubernetes · System Design |
+| ZenDSA · Microservices · Clean Architecture | Agentic AI · Kubernetes · System Design · Machine learning |
 
 ---
 
