@@ -47,11 +47,11 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 
 ![Profile views](https://komarev.com/ghpvc/?username=dabhivaibhav&label=Profile%20views&color=0e75b6&style=flat)
 
-[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabhivaibhav&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/dabhivaibhav)
+[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabhivaibhav&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_rank=true)](https://github.com/dabhivaibhav)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dabhivaibhav&layout=compact&theme=radical&hide_border=true)](https://github.com/dabhivaibhav)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dabhivaibhav&theme=radical&hide_border=true)](https://github.com/dabhivaibhav)
 
-*Note: Top languages is a metric of public repos only and does not reflect experience or skill level.*
+*Note: "Total Commits" = last 12 months. For 2026 contribution count & streak, see the activity graph below. Top languages = public repos only.*
 
 </div>
 
