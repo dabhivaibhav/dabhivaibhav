@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=1200&color=22D3EE&background=0F172A&center=true&vCenter=true&width=420&height=52&lines=%24+Hi%2C+I'm+Vaibhav;%3E+Software+Engineer+%7C+AI+%26+ML+%7C+Backend+%26+Cloud" alt="CLI intro" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3200&pause=1500&color=22D3EE&background=0F172A&center=true&vCenter=true&width=580&height=32&lines=%3E+Software+Engineer+%7C+AI+%26+ML+%7C+Backend+%26+Cloud" alt="CLI intro" />
 
 <br />
 
