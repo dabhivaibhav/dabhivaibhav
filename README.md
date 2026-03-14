@@ -2,10 +2,19 @@
 
 # 👋 Hi, I'm Vaibhav Dabhi
 
-### Java Developer | Full-Stack Enthusiast | Building with Spring Boot & More
+### Software Engineer & AI/ML Engineer
 
+**Building scalable systems & intelligent applications with Java, Python, Spring Boot, React, and AI/ML.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-vaibhavdabhi.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhavdabhi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-dabhi/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dabhivaibhav)
+[![Resume](https://img.shields.io/badge/Resume-Download-8B0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
+
+> *"Zero-Failure mindset: every deployment inspires confidence; every interface guides the user; every line of code serves a purpose."*
+
+| 4+ Years | 15+ Projects | 99% Satisfaction |
+|:--------:|:------------:|:-----------------:|
+| Experience | Delivered | Client Focus |
 
 ---
 
@@ -13,25 +22,53 @@
 
 ## 🚀 About Me
 
-I'm **Vaibhav Dabhi**, a developer passionate about building robust backend systems and full-stack applications. I work with **Java**, **Spring Boot**, and modern web technologies to create clean, scalable solutions—from CRUD APIs and JWT authentication to Dockerized deployments and DSA practice.
+**High-Availability Architect** and **Pedagogical Technical Leader** with **4+ years** in enterprise Java and full-stack systems. Built production services at scale (99.99% uptime, Kubernetes, Spring Boot microservices) and led teams of 5+ with 20% faster delivery; reduced hiring cycle by 30% via a custom Interview Management System.
 
-- 🔭 Working on **Java/Spring Boot** projects and **DSA**
-- 🌱 Exploring **microservices**, **Docker**, and **cloud-native** development
-- 💬 Open to collaboration on **Java**, **REST APIs**, and **web apps**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vaibhav-dabhi/)
+Bridging **distributed systems reliability** with **agentic orchestration** and **AI/ML**—from Indian tech consulting and compliance-critical backend (100% data integrity in regulatory reports) to **Graduate Teaching Assistant** at Illinois State University, mentoring 30+ students in Java and DSA. Curator of a structured [DSA repository](https://github.com/dabhivaibhav/dsa) (recursion, DP, sliding window) designed for spaced repetition and interview readiness.
+
+- 🔭 **Currently:** Graduate Teaching Assistant @ Illinois State University
+- 🌱 **Focus:** Microservices, Kubernetes, AI/ML pipelines, clean architecture
+- 💬 **Open to:** Backend, full-stack, and AI/ML collaborations
+- 📍 **Location:** Chicago, IL
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Expertise
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<table>
+<tr>
+<td width="50%">
+
+**Discussion → Execution**  
+Planning, design & delivery  
+`Risk Assessment` `Stakeholder Communication` `Technical Documentation` `Sprint Planning` `Agile / Scrum` `System Design`
+
+**Coding**  
+Languages, architecture & APIs  
+`Java` `Spring Boot` `Python` `TypeScript` `REST APIs` `DSA & Clean Architecture`
+
+**Quality & Testing**  
+Reliability before ship  
+`TDD` `Integration Testing` `Code Reviews` `Performance Testing`
+
+</td>
+<td width="50%">
+
+**Cloud & Infrastructure**  
+Scale, reliability & reach  
+`AWS` `Azure` `Kubernetes` `Docker` `Serverless` `Infrastructure as Code`
+
+**Deployment & Ops**  
+Ship and run at scale  
+`CI/CD` `GitHub Actions` `Monitoring & Logging` `Auto-scaling`
+
+**AI / ML**  
+Intelligent systems & data  
+`Python` `Machine Learning` `TensorFlow` `Scikit-learn` `NLP` `Data Pipelines`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,15 +86,36 @@ I'm **Vaibhav Dabhi**, a developer passionate about building robust backend syst
 
 ---
 
-## 📌 Featured Repositories
+## 📌 Featured Projects
 
-| Repository | Description | Tech |
-|------------|-------------|------|
-| [dsa](https://github.com/dabhivaibhav/dsa) | Data Structures & Algorithms practice | Java |
-| [linkedin-clone](https://github.com/dabhivaibhav/linkedin-clone) | LinkedIn-style clone project | JavaScript |
-| [EmployeeCrudJWTAuthentication](https://github.com/dabhivaibhav/EmployeeCrudJWTAuthentication) | Employee CRUD with JWT auth | Java |
-| [EmployeeCRUD-DOCKER-COMPOSE](https://github.com/dabhivaibhav/EmployeeCRUD-DOCKER-COMPOSE) | Employee CRUD with Docker Compose | Java, Docker |
-| [StudentManagement-Thymeleaf](https://github.com/dabhivaibhav/StudentManagement-Thymeleaf) | Student management web app | Java, Thymeleaf, HTML |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**ZenDSA**](https://zendsa.vercel.app/) | Spaced-repetition–driven DSA learning app. Structured by topics (recursion, DP, sliding window) for retention and interview readiness. | React, TypeScript, Java, Spring Boot, Docker, LLM |
+| [**Interview Management System**](https://github.com/dabhivaibhav/interview-management-system) | Full-stack app for 500+ weekly applications with JWT auth; reduced hiring cycle time by 30%. | Spring Boot, React, JWT, Docker, Kubernetes |
+| [**Revive And Rewear (RWR)**](https://github.com/dabhivaibhav/Revive_And_Rewear) | Scalable e-commerce platform with three role-specific dashboards and 2FA for secure transactions. | React, FastAPI, Python, MongoDB |
+| [**Network Device Detection via ML**](https://github.com/dabhivaibhav/MachineLearningIOTDeviceIdentification) | Supervised ML pipeline to classify IoT devices from PCAP data; 100% classification accuracy with Random Forest. | Python, Scapy, Pandas, Random Forest |
+| [**Workforce Software**](https://github.com/dabhivaibhav) | Payroll system with SQL scripts, triggers, and procedures; 25% faster processing, 30% fewer errors for 2,000+ employees. | SQL, Database Optimization, Compliance |
+| [**DSA Repository**](https://github.com/dabhivaibhav/dsa) | Structured archive of Data Structures & Algorithms in Java—clean solutions, edge cases, interview-style thinking. | Java, DSA Patterns, Problem-Solving |
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| **Graduate Teaching Assistant** | Illinois State University, Normal, IL | Aug 2025 – Present |
+| **Software Engineer** | Tatvasoft, Ahmedabad, India | Nov 2023 – Jul 2024 |
+| **Software Engineer (Consultant)** | Staunchsys IT Services Pvt. Ltd., Ahmedabad | Jul 2021 – Oct 2023 |
+| **Technical Support Engineer** | Kepsure Solutions Pvt. Ltd., Ahmedabad | Nov 2020 – May 2021 |
+| **Mobile Application Developer** | MindTech Consultancy, Ahmedabad | Aug 2019 – Dec 2019 |
+
+---
+
+## 🎓 Education & Certifications
+
+- **Master's in Computer Science** — Illinois State University, Normal, IL *(GPA: 3.75)* — Aug 2024 – Present  
+- **AWS Certified Cloud Practitioner** — Amazon Web Services — Oct 2022  
+- **Atlassian Agile Project Management** — Professional Certificate — Jan 2025  
 
 ---
 
@@ -69,12 +127,13 @@ I'm **Vaibhav Dabhi**, a developer passionate about building robust backend syst
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Build Something
 
-<div align="center">
+Ready to build software or AI/ML solutions? Get in touch.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-vaibhavdabhi.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhavdabhi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav_Dabhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-dabhi/)
+[![Email](https://img.shields.io/badge/Email-vaibhavdabhi.tech@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavdabhi.tech@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-8B0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
 
-*Open to new opportunities and collaborations.*
-
-</div>
+**Chicago, IL** · Open to opportunities and collaborations.
