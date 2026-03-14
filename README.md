@@ -2,23 +2,30 @@
 
 # 👋 Hi, I'm Vaibhav Dabhi
 
-### Software Engineer & AI/ML Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=22D3EE&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI+%26+ML+%7C+Backend+%26+Cloud" alt="Typing" />
 
 **Building scalable systems & intelligent applications with Java, Python, Spring Boot, React, and AI/ML.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhavdabhi.vercel.app/) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-dabhi/) &nbsp; [![Resume](https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
+<br />
 
-> *"Zero-Failure mindset: every deployment inspires confidence; every interface guides the user; every line of code serves a purpose."*
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://vaibhavdabhi.vercel.app/) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/vaibhav-dabhi/) &nbsp; [![Resume](https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=googledrive&logoColor=22D3EE)](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
 
-| 4+ Years | 15+ Projects | 99% Satisfaction |
-|:--------:|:------------:|:-----------------:|
-| Experience | Delivered | Client Focus |
+<br />
 
-<img src="https://img.shields.io/badge/Open_to_Opportunities-00C853?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to work" />
+<img src="https://img.shields.io/badge/Zero_Failure_Mindset-8B5CF6?style=for-the-badge" alt="Quote" />  
+*Every deployment inspires confidence · every interface guides the user*
 
----
+<br />
 
-### 📑 Quick navigation
+| <img src="https://img.shields.io/badge/4%2B_Years-06B6D4?style=for-the-badge" /> | <img src="https://img.shields.io/badge/15%2B_Projects-8B5CF6?style=for-the-badge" /> | <img src="https://img.shields.io/badge/99%25_Focus-22D3EE?style=for-the-badge" /> |
+|:---:|:---:|:---:|
+| **Experience** | **Shipped** | **Quality** |
+
+<br />
+
+<img src="https://img.shields.io/badge/Open_to_Opportunities-06B6D4?style=for-the-badge&logo=linkedin&logoColor=0F172A" alt="Open to work" />
+
+<br />
 
 [About](#-about-me) · [Focus](#-current-focus) · [Tech stack](#-some-tools-i-have-used-and-learned) · [Stats](#-github-stats) · [Projects](#-featured-projects) · [Experience](#-experience) · [Contact](#-lets-build-something)
 
@@ -82,16 +89,16 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=dabhivaibhav&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=dabhivaibhav&label=Profile%20views&color=06B6D4&style=flat)
 
-[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabhivaibhav&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_rank=true)](https://github.com/dabhivaibhav)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dabhivaibhav&layout=compact&theme=radical&hide_border=true)](https://github.com/dabhivaibhav)
+[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabhivaibhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&bg_color=0f172a&title_color=22d3ee&icon_color=06b6d4)](https://github.com/dabhivaibhav)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dabhivaibhav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee)](https://github.com/dabhivaibhav)
 
 </div>
 
 ### 📈 Contribution activity
 
-[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dabhivaibhav&theme=react-dark&hide_border=true)](https://github.com/dabhivaibhav)
+[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dabhivaibhav&theme=react-dark&hide_border=true&color=22d3ee&point=8b5cf6)](https://github.com/dabhivaibhav)
 
 ### 🐍 Contribution snake
 
@@ -169,6 +176,6 @@ Ready to build software or AI/ML solutions? Get in touch.
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhavdabhi.vercel.app/) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-dabhi/) &nbsp; [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavdabhi.tech@gmail.com) &nbsp; [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://vaibhavdabhi.vercel.app/) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/vaibhav-dabhi/) &nbsp; [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:vaibhavdabhi.tech@gmail.com) &nbsp; [![Resume](https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=googledrive&logoColor=22D3EE)](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
 
 *Chicago, IL — Open to opportunities and collaborations.*
