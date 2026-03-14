@@ -62,7 +62,7 @@
 <tr>
 <td align="center" width="25%"><h4>🔭 Now</h4><b>GTA @ Illinois State</b></td>
 <td align="center" width="25%"><h4>🌱 Focus</h4><b>Microservices · K8s · AI/ML</b></td>
-<td align="center" width="25%"><h4>💬 Open to</h4><b>Backend · Full-stack · AI/ML</b></td>
+<td align="center" width="25%"><h4>Open to</h4><b>Backend · Full-stack · AI/ML</b></td>
 <td align="center" width="25%"><h4>📍 Where</h4><b>Chicago, IL</b></td>
 </tr>
 </table>
