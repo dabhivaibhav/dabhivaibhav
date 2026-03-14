@@ -14,7 +14,15 @@
 |:--------:|:------------:|:-----------------:|
 | Experience | Delivered | Client Focus |
 
+<img src="https://img.shields.io/badge/Open_to_Opportunities-00C853?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to work" />
+
 *⬇️ Scroll down to see my projects & stats*
+
+---
+
+### 📑 Quick navigation
+
+[About](#-about-me) · [Focus](#-current-focus) · [Tech stack](#-some-tools-i-have-used-and-learned) · [Stats](#-github-stats) · [Projects](#-featured-projects) · [Experience](#-experience) · [Contact](#-lets-build-something)
 
 ---
 
@@ -33,11 +41,42 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 
 ---
 
+## 🎯 Current focus
+
+<table>
+<tr>
+<td width="50%" align="center">
+<strong>🔬 Building</strong><br/>ZenDSA · Microservices · Clean Architecture
+</td>
+<td width="50%" align="center">
+<strong>📚 Learning</strong><br/>Agentic AI · Kubernetes · System Design
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<strong>🤝 Open to</strong><br/>Backend · Full‑stack · AI/ML roles & collabs
+</td>
+<td width="50%" align="center">
+<strong>📍 Based in</strong><br/>Chicago, IL
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 Some Tools I Have Used and Learned
 
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30" alt="VS Code" /> &nbsp; <img src="https://img.shields.io/badge/IntelliJ-000?style=for-the-badge&logo=intellijidea&logoColor=white" height="30" alt="IntelliJ" /> &nbsp; <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java" /> &nbsp; <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="30" alt="Spring Boot" /> &nbsp; <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30" alt="React" /> &nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="HTML5" /> &nbsp; <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" alt="Bootstrap" /> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="CSS3" /> &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" alt="JavaScript" /> &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="TypeScript" /> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="Linux" /> &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git" /> &nbsp; <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="MongoDB" /> &nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="MySQL" /> &nbsp; <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" alt="Node.js" /> &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Python" /> &nbsp; <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30" alt="Figma" />
 
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="30" alt="GraphQL" /> &nbsp; <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker" /> &nbsp; <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="30" alt="Kubernetes" /> &nbsp; <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="30" alt="AWS" /> &nbsp; <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="30" alt="Azure" /> &nbsp; <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="30" alt="GitHub Actions" /> &nbsp; <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30" alt="FastAPI" /> &nbsp; <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL" /> &nbsp; <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30" alt="TensorFlow" /> &nbsp; <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30" alt="Scikit-learn" /> &nbsp; <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30" alt="Pandas" /> &nbsp; <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30" alt="NumPy" />
+
+---
+
+## 📊 By the numbers
+
+| 4+ years experience | 15+ projects shipped | 30+ students mentored | 99.99% uptime achieved |
+|:-------------------:|:--------------------:|:---------------------:|:----------------------:|
+| Backend & full-stack | From idea to production | Java & DSA @ ISU | Production systems |
 
 ---
 
@@ -59,6 +98,20 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 <br />
 
 [![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dabhivaibhav&theme=react-dark&hide_border=true)](https://github.com/dabhivaibhav)
+
+</details>
+
+<details>
+<summary><b>🐍 Contribution snake (click to expand)</b></summary>
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dabhivaibhav/dabhivaibhav/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dabhivaibhav/dabhivaibhav/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution grid snake" src="https://raw.githubusercontent.com/dabhivaibhav/dabhivaibhav/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+*Powered by [Platane/snk](https://github.com/Platane/snk). To enable: add the workflow to your `dabhivaibhav/dabhivaibhav` repo.*
 
 </details>
 
@@ -95,6 +148,12 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 - **AWS Certified Cloud Practitioner** — Amazon Web Services — Oct 2022  
 - **Atlassian Agile Project Management** — Professional Certificate — Jan 2025  
 
+<div align="center">
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges) &nbsp; [![Atlassian Agile](https://img.shields.io/badge/Atlassian_Agile_Project_Mgmt-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://www.atlassian.com/)
+
+</div>
+
 ---
 
 ## 🏆 GitHub Achievements
@@ -108,6 +167,21 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 ## 📫 Let's Build Something
 
 Ready to build software or AI/ML solutions? Get in touch.
+
+<details>
+<summary><b>📬 How to reach me</b></summary>
+<br />
+
+| Channel | Link |
+|--------|------|
+| **Portfolio** | [vaibhavdabhi.vercel.app](https://vaibhavdabhi.vercel.app/) |
+| **LinkedIn** | [linkedin.com/in/vaibhav-dabhi](https://www.linkedin.com/in/vaibhav-dabhi/) |
+| **Email** | vaibhavdabhi.tech@gmail.com |
+| **Resume** | [Download (Google Drive)](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip) |
+
+</details>
+
+<br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhavdabhi.vercel.app/) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-dabhi/) &nbsp; [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavdabhi.tech@gmail.com) &nbsp; [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
 
