@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vaibhav Dabhi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=22D3EE&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI+%26+ML+%7C+Backend+%26+Cloud" alt="Typing" />
+### Software Engineer · AI & ML · Backend & Cloud
 
 **Building scalable systems & intelligent applications with Java, Python, Spring Boot, React, and AI/ML.**
 
@@ -12,8 +12,7 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/Zero_Failure_Mindset-8B5CF6?style=for-the-badge" alt="Quote" />  
-*Every deployment inspires confidence · every interface guides the user*
+**Zero-Failure mindset** — *Every deployment inspires confidence · every interface guides the user*
 
 <br />
 
