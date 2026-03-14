@@ -52,10 +52,16 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><h4>🔭 Now</h4><b>GTA @ Illinois State</b></td>
-<td align="center" width="25%"><h4>🌱 Focus</h4><b>Microservices · K8s · AI/ML</b></td>
-<td align="center" width="25%"><h4>Open to</h4><b>Backend · Full-stack · AI/ML</b></td>
-<td align="center" width="25%"><h4>📍 Where</h4><b>Chicago, IL</b></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/GTA_@_Illinois_State-475569?style=for-the-badge" height="28" /></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/Microservices_·_K8s_·_AI/ML-5b21b6?style=for-the-badge" height="28" /></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/Backend_·_Full--stack_·_AI/ML-0f766e?style=for-the-badge" height="28" /></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/Chicago,_IL-475569?style=for-the-badge" height="28" /></td>
+</tr>
+<tr>
+<td align="center">**Now**</td>
+<td align="center">**Focus**</td>
+<td align="center">**Open to**</td>
+<td align="center">**Where**</td>
 </tr>
 </table>
 
@@ -63,9 +69,16 @@
 
 ## ✦ Current focus
 
-| **🔬 Building** | **📚 Learning** |
-|:---:|:---:|
-| ZenDSA · Microservices · Clean Architecture | Agentic AI · Kubernetes · System Design · Machine learning |
+<table>
+<tr>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/ZenDSA_·_Microservices_·_Clean_Architecture-475569?style=for-the-badge" height="28" /></td>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/Agentic_AI_·_Kubernetes_·_System_Design_·_ML-5b21b6?style=for-the-badge" height="28" /></td>
+</tr>
+<tr>
+<td align="center">**🔬 Building**</td>
+<td align="center">**📚 Learning**</td>
+</tr>
+</table>
 
 ---
 
