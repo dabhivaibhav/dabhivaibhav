@@ -6,9 +6,7 @@
 
 **Building scalable systems & intelligent applications with Java, Python, Spring Boot, React, and AI/ML.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vaibhavdabhi.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhavdabhi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-dabhi/)
-[![Resume](https://img.shields.io/badge/Resume-Download-8B0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
+[Portfolio](https://vaibhavdabhi.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vaibhav-dabhi/) · [Resume](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
 
 > *"Zero-Failure mindset: every deployment inspires confidence; every interface guides the user; every line of code serves a purpose."*
 
@@ -131,9 +129,6 @@ Intelligent systems & data
 
 Ready to build software or AI/ML solutions? Get in touch.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vaibhavdabhi.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhavdabhi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav_Dabhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-dabhi/)
-[![Email](https://img.shields.io/badge/Email-vaibhavdabhi.tech@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavdabhi.tech@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-8B0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
+[Portfolio](https://vaibhavdabhi.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vaibhav-dabhi/) · [Email](mailto:vaibhavdabhi.tech@gmail.com) · [Resume](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
 
-**Chicago, IL** · Open to opportunities and collaborations.
+*Chicago, IL — Open to opportunities and collaborations.*
