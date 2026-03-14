@@ -24,10 +24,6 @@
 |:---:|:---:|:---:|:---:|
 | **Experience** | **Shipped** | **Quality** | **Status** |
 
-<br />
-
-[About](#-about-me) · [Focus](#-current-focus) · [Tech stack](#-some-tools-i-have-used-and-learned) · [Stats](#-github-stats) · [Projects](#-featured-projects) · [Experience](#-experience) · [Contact](#-lets-build-something)
-
 ---
 
 </div>
