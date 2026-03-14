@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Vaibhav Dabhi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&text=Vaibhav%20Dabhi&fontSize=70&fontAlignY=35&fontColor=ffffff" alt="Vaibhav Dabhi" width="100%" />
 
-### Software Engineer · AI & ML · Backend & Cloud
+<br />
+
+**👋 Hi, I'm Vaibhav** — *Software Engineer · AI & ML · Backend & Cloud*
 
 **Building scalable systems & intelligent applications with Java, Python, Spring Boot, React, and AI/ML.**
 
@@ -12,7 +14,8 @@
 
 <br />
 
-**Zero-Failure mindset** — *Every deployment inspires confidence · every interface guides the user*
+<img src="https://img.shields.io/badge/✦_Zero_Failure_Mindset_✦-8B5CF6?style=for-the-badge" alt="Mindset" />  
+*Every deployment inspires confidence · every interface guides the user*
 
 <br />
 
@@ -26,13 +29,14 @@
 
 <br />
 
+<img src="https://img.shields.io/badge/━━━_Quick_Nav_━━━-22D3EE?style=flat-square" alt="" />  
 [About](#-about-me) · [Focus](#-current-focus) · [Tech stack](#-some-tools-i-have-used-and-learned) · [Stats](#-github-stats) · [Projects](#-featured-projects) · [Experience](#-experience) · [Contact](#-lets-build-something)
 
 ---
 
 </div>
 
-## 🚀 About Me
+## ✦ About Me
 
 **High-Availability Architect** and **Pedagogical Technical Leader** with **4+ years** in enterprise Java and full-stack systems. Built production services at scale (99.99% uptime, Kubernetes, Spring Boot microservices) and led teams of 5+ with 20% faster delivery; reduced hiring cycle by 30% via a custom Interview Management System.
 
@@ -45,7 +49,7 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 
 ---
 
-## 🎯 Current focus
+## ✦ Current focus
 
 <table>
 <tr>
@@ -68,7 +72,7 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 
 ---
 
-## 🚀 Some Tools I Have Used and Learned
+## ✦ Tech stack
 
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30" alt="VS Code" /> &nbsp; <img src="https://img.shields.io/badge/IntelliJ-000?style=for-the-badge&logo=intellijidea&logoColor=white" height="30" alt="IntelliJ" /> &nbsp; <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java" /> &nbsp; <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="30" alt="Spring Boot" /> &nbsp; <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30" alt="React" /> &nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="HTML5" /> &nbsp; <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" alt="Bootstrap" /> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="CSS3" /> &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" alt="JavaScript" /> &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="TypeScript" /> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="Linux" /> &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git" /> &nbsp; <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="MongoDB" /> &nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="MySQL" /> &nbsp; <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" alt="Node.js" /> &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Python" /> &nbsp; <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="30" alt="Maven" /> &nbsp; <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="30" alt="Redis" /> &nbsp; <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="30" alt="Jira" />
 
@@ -76,7 +80,7 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 
 ---
 
-## 📊 By the numbers
+## ✦ By the numbers
 
 | 4+ years experience | 15+ projects shipped | 30+ students mentored | 99.99% uptime achieved |
 |:-------------------:|:--------------------:|:---------------------:|:----------------------:|
@@ -84,7 +88,7 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 
 ---
 
-## 📊 GitHub Stats
+## ✦ GitHub Stats
 
 <div align="center">
 
@@ -109,7 +113,7 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 
 ---
 
-## 📌 Featured Projects
+## ✦ Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -122,7 +126,7 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 
 ---
 
-## 💼 Experience
+## ✦ Experience
 
 | Role | Company | Period |
 |------|---------|--------|
@@ -134,7 +138,7 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 
 ---
 
-## 🎓 Education & Certifications
+## ✦ Education & Certifications
 
 - **Master's in Computer Science** — Illinois State University, Normal, IL *(GPA: 3.75)* — Aug 2024 – Present  
 - **AWS Certified Cloud Practitioner** — Amazon Web Services — Oct 2022  
@@ -148,7 +152,7 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 
 ---
 
-## 🏆 GitHub Achievements
+## ✦ GitHub Achievements
 
 ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
 ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
@@ -156,7 +160,7 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 
 ---
 
-## 📫 Let's Build Something
+## ✦ Let's Build Something
 
 Ready to build software or AI/ML solutions? Get in touch.
 
@@ -178,3 +182,7 @@ Ready to build software or AI/ML solutions? Get in touch.
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://vaibhavdabhi.vercel.app/) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/vaibhav-dabhi/) &nbsp; [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:vaibhavdabhi.tech@gmail.com) &nbsp; [![Resume](https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=googledrive&logoColor=22D3EE)](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
 
 *Chicago, IL — Open to opportunities and collaborations.*
+
+<br />
+
+<sub>✨ [Capsule Render](https://github.com/kyechan99/capsule-render) · [Shields.io](https://shields.io) · [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)</sub>
