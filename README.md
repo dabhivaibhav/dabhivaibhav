@@ -63,11 +63,11 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 
 </details>
 
+<!-- Trophies: uncomment when https://github-profile-trophy.vercel.app is back online (service often paused).
 <div align="center">
-
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=dabhivaibhav&column=7&theme=radical&no-frame=true&no-bg=true)
-
 </div>
+-->
 
 ---
 
