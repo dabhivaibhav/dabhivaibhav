@@ -34,9 +34,20 @@
 
 ## ✦ About Me
 
-**High-Availability Architect** and **Pedagogical Technical Leader** with **4+ years** in enterprise Java and full-stack systems. Built production services at scale (99.99% uptime, Kubernetes, Spring Boot microservices) and led teams of 5+ with 20% faster delivery; reduced hiring cycle by 30% via a custom Interview Management System.
+*I build systems that stay up and teams that ship faster.*
 
-Bridging **distributed systems reliability** with **agentic orchestration** and **AI/ML**—from Indian tech consulting and compliance-critical backend (100% data integrity in regulatory reports) to **Graduate Teaching Assistant** at Illinois State University, mentoring 30+ students in Java and DSA. Curator of a structured [DSA repository](https://github.com/dabhivaibhav/dsa) (recursion, DP, sliding window) designed for spaced repetition and interview readiness.
+**High-Availability Architect** and **Pedagogical Technical Leader** with **4+ years** in enterprise Java and full-stack systems. I’ve run production at scale—**99.99% uptime**, Kubernetes, Spring Boot microservices—and led teams of **5+** with **20% faster delivery**; cut hiring cycle by **30%** with a custom [Interview Management System](https://github.com/dabhivaibhav/Interview-Management-System) that streamlines technical interviews.
+
+I connect **distributed systems reliability** with **agentic AI** and **ML**: from compliance-critical backend (100% data integrity in regulatory reports) to **Graduate Teaching Assistant** at Illinois State University, where I mentor **30+** students in Java and DSA. I also maintain a structured [DSA repo](https://github.com/dabhivaibhav/dsa) (recursion, DP, sliding window) built for spaced repetition and interview prep.
+
+<table>
+<tr>
+<td align="center"><code>Backend</code></td>
+<td align="center"><code>Systems</code></td>
+<td align="center"><code>AI & ML</code></td>
+<td align="center"><code>Teaching</code></td>
+</tr>
+</table>
 
 - 🔭 **Currently:** Graduate Teaching Assistant @ Illinois State University
 - 🌱 **Focus:** Microservices, Kubernetes, AI/ML pipelines, clean architecture
