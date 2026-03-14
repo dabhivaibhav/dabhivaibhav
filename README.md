@@ -24,6 +24,23 @@
 |:---:|:---:|:---:|:---:|
 | **Experience** | **Shipped** | **Quality** | **Status** |
 
+<br />
+
+<table>
+<tr>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/GTA_@_Illinois_State-475569?style=for-the-badge" height="28" /></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/Microservices_·_K8s_·_AI/ML-5b21b6?style=for-the-badge" height="28" /></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/Backend_·_Full--stack_·_AI/ML-0f766e?style=for-the-badge" height="28" /></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/Chicago,_IL-475569?style=for-the-badge" height="28" /></td>
+</tr>
+<tr>
+<td align="center"><b>Now</b></td>
+<td align="center"><b>Focus</b></td>
+<td align="center"><b>Open to</b></td>
+<td align="center"><b>Where</b></td>
+</tr>
+</table>
+
 ---
 
 </div>
@@ -47,21 +64,6 @@
 **Distributed systems** ↔ **agentic AI & ML**. Compliance-critical backend (100% data integrity) → **GTA @ Illinois State**, mentoring **30+** in Java & DSA. Structured [DSA repo](https://github.com/dabhivaibhav/dsa) for spaced repetition & interview prep.
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/GTA_@_Illinois_State-475569?style=for-the-badge" height="28" /></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/Microservices_·_K8s_·_AI/ML-5b21b6?style=for-the-badge" height="28" /></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/Backend_·_Full--stack_·_AI/ML-0f766e?style=for-the-badge" height="28" /></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/Chicago,_IL-475569?style=for-the-badge" height="28" /></td>
-</tr>
-<tr>
-<td align="center"><b>Now</b></td>
-<td align="center"><b>Focus</b></td>
-<td align="center"><b>Open to</b></td>
-<td align="center"><b>Where</b></td>
 </tr>
 </table>
 
