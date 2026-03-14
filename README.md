@@ -71,10 +71,10 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><sub>🔭 <b>Now</b></sub><br/><img src="https://img.shields.io/badge/GTA_@_Illinois_State-0F172A?style=flat-square&labelColor=06B6D4" height="18" /></td>
-<td align="center" width="25%"><sub>🌱 <b>Focus</b></sub><br/><img src="https://img.shields.io/badge/Microservices_·_K8s_·_AI/ML-0F172A?style=flat-square&labelColor=8B5CF6" height="18" /></td>
-<td align="center" width="25%"><sub>💬 <b>Open to</b></sub><br/><img src="https://img.shields.io/badge/Backend_·_Full--stack_·_AI/ML-0F172A?style=flat-square&labelColor=22D3EE" height="18" /></td>
-<td align="center" width="25%"><sub>📍 <b>Where</b></sub><br/><img src="https://img.shields.io/badge/Chicago,_IL-0F172A?style=flat-square&labelColor=A78BFA" height="18" /></td>
+<td align="center" width="25%"><b>🔭 Now</b><br/><img src="https://img.shields.io/badge/GTA_@_Illinois_State-0F172A?style=flat-square&labelColor=06B6D4" height="22" /></td>
+<td align="center" width="25%"><b>🌱 Focus</b><br/><img src="https://img.shields.io/badge/Microservices_·_K8s_·_AI/ML-0F172A?style=flat-square&labelColor=8B5CF6" height="22" /></td>
+<td align="center" width="25%"><b>💬 Open to</b><br/><img src="https://img.shields.io/badge/Backend_·_Full--stack_·_AI/ML-0F172A?style=flat-square&labelColor=22D3EE" height="22" /></td>
+<td align="center" width="25%"><b>📍 Where</b><br/><img src="https://img.shields.io/badge/Chicago,_IL-0F172A?style=flat-square&labelColor=A78BFA" height="22" /></td>
 </tr>
 </table>
 
@@ -82,22 +82,9 @@
 
 ## ✦ Current focus
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="https://img.shields.io/badge/🔬_Building-0F172A?style=for-the-badge&labelColor=06B6D4" height="28" />  
-<sub>ZenDSA · Microservices · Clean Architecture</sub>
-
-</td>
-<td width="50%" align="center" valign="middle">
-
-<img src="https://img.shields.io/badge/📚_Learning-0F172A?style=for-the-badge&labelColor=8B5CF6" height="28" />  
-<sub>Agentic AI · Kubernetes · System Design</sub>
-
-</td>
-</tr>
-</table>
+| **🔬 Building** | **📚 Learning** |
+|:---:|:---:|
+| ZenDSA · Microservices · Clean Architecture | Agentic AI · Kubernetes · System Design |
 
 ---
 
