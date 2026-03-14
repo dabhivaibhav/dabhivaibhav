@@ -20,7 +20,7 @@
 
 <br />
 
-| <img src="https://img.shields.io/badge/4%2B_Years-06B6D4?style=for-the-badge" /> | <img src="https://img.shields.io/badge/15%2B_Projects-8B5CF6?style=for-the-badge" /> | <img src="https://img.shields.io/badge/99%25_Focus-22D3EE?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Open_to_Work-06B6D4?style=for-the-badge&logo=linkedin&logoColor=0F172A" height="28" /> |
+| <img src="https://img.shields.io/badge/4%2B_Years-475569?style=for-the-badge" /> | <img src="https://img.shields.io/badge/15%2B_Projects-5b21b6?style=for-the-badge" /> | <img src="https://img.shields.io/badge/99%25_Focus-0f766e?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Open_to_Work-475569?style=for-the-badge&logo=linkedin&logoColor=94a3b8" height="28" /> |
 |:---:|:---:|:---:|:---:|
 | **Experience** | **Shipped** | **Quality** | **Status** |
 
