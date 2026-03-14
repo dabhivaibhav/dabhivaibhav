@@ -36,48 +36,65 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/▸_High--Availability_Architect-0F172A?style=for-the-badge&labelColor=06B6D4&color=22D3EE" alt="Role" /> &nbsp; <img src="https://img.shields.io/badge/▸_Pedagogical_Leader-0F172A?style=for-the-badge&labelColor=8B5CF6&color=A78BFA" alt="Leader" />
+<img src="https://img.shields.io/badge/High--Availability_Architect-06B6D4?style=flat-square&logo=server&logoColor=fff" height="26" /> &nbsp; <img src="https://img.shields.io/badge/Pedagogical_Leader-8B5CF6?style=flat-square&logo=book&logoColor=fff" height="26" />
 
 </div>
 
 <br />
 
-> **⚡** *I build systems that stay up and teams that ship faster.*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**4+ years** in enterprise Java and full-stack · Production at scale (**99.99% uptime**, Kubernetes, Spring Boot) · Led **5+** with **20% faster delivery** · Cut hiring cycle **30%** with a custom [Interview Management System](https://github.com/dabhivaibhav/Interview-Management-System).
+**⚡ Mission**  
+*I build systems that stay up and teams that ship faster.*
 
-Bridging **distributed systems** ↔ **agentic AI & ML**: compliance-critical backend (100% data integrity) → **GTA @ Illinois State**, mentoring **30+** in Java & DSA · Structured [DSA repo](https://github.com/dabhivaibhav/dsa) for spaced repetition & interview prep.
+**Experience**  
+**4+ years** in enterprise Java & full-stack. Production at scale (**99.99% uptime**, Kubernetes, Spring Boot). Led **5+** with **20% faster delivery**; cut hiring cycle **30%** with a custom [Interview Management System](https://github.com/dabhivaibhav/Interview-Management-System).
+
+</td>
+<td width="50%" valign="top">
+
+**Bridge**  
+**Distributed systems** ↔ **agentic AI & ML**. Compliance-critical backend (100% data integrity) → **GTA @ Illinois State**, mentoring **30+** in Java & DSA. Structured [DSA repo](https://github.com/dabhivaibhav/dsa) for spaced repetition & interview prep.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-06B6D4?style=flat-square&logo=server" height="20" /> &nbsp;
+  <img src="https://img.shields.io/badge/Systems-8B5CF6?style=flat-square&logo=kubernetes" height="20" /> &nbsp;
+  <img src="https://img.shields.io/badge/AI_%26_ML-22D3EE?style=flat-square&logo=tensorflow" height="20" /> &nbsp;
+  <img src="https://img.shields.io/badge/Teaching-A78BFA?style=flat-square&logo=book" height="20" />
+</p>
+
+<table>
+<tr>
+<td align="center" width="25%"><sub>🔭 <b>Now</b></sub><br/><img src="https://img.shields.io/badge/GTA_@_Illinois_State-0F172A?style=flat-square&labelColor=06B6D4" height="18" /></td>
+<td align="center" width="25%"><sub>🌱 <b>Focus</b></sub><br/><img src="https://img.shields.io/badge/Microservices_·_K8s_·_AI/ML-0F172A?style=flat-square&labelColor=8B5CF6" height="18" /></td>
+<td align="center" width="25%"><sub>💬 <b>Open to</b></sub><br/><img src="https://img.shields.io/badge/Backend_·_Full--stack_·_AI/ML-0F172A?style=flat-square&labelColor=22D3EE" height="18" /></td>
+<td align="center" width="25%"><sub>📍 <b>Where</b></sub><br/><img src="https://img.shields.io/badge/Chicago,_IL-0F172A?style=flat-square&labelColor=A78BFA" height="18" /></td>
+</tr>
+</table>
 
 <br />
-
-| <img src="https://img.shields.io/badge/Backend-06B6D4?style=flat-square&logo=server" height="22" /> | <img src="https://img.shields.io/badge/Systems-8B5CF6?style=flat-square&logo=kubernetes" height="22" /> | <img src="https://img.shields.io/badge/AI_%26_ML-22D3EE?style=flat-square&logo=tensorflow" height="22" /> | <img src="https://img.shields.io/badge/Teaching-A78BFA?style=flat-square&logo=book" height="22" /> |
-|:---:|:---:|:---:|:---:|
-
-<br />
-
-| 🔭 **Now** | 🌱 **Focus** | 💬 **Open to** | 📍 **Where** |
-|:---|:---|:---|:---|
-| GTA @ Illinois State | Microservices · K8s · AI/ML · Clean arch | Backend · Full‑stack · AI/ML | Chicago, IL |
-
----
 
 ## ✦ Current focus
 
 <table>
 <tr>
-<td width="50%" align="center">
-<strong>🔬 Building</strong><br/>ZenDSA · Microservices · Clean Architecture
+<td width="50%" align="center" valign="middle">
+
+<img src="https://img.shields.io/badge/🔬_Building-0F172A?style=for-the-badge&labelColor=06B6D4" height="28" />  
+<sub>ZenDSA · Microservices · Clean Architecture</sub>
+
 </td>
-<td width="50%" align="center">
-<strong>📚 Learning</strong><br/>Agentic AI · Kubernetes · System Design
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<strong>🤝 Open to</strong><br/>Backend · Full‑stack · AI/ML roles & collabs
-</td>
-<td width="50%" align="center">
-<strong>📍 Based in</strong><br/>Chicago, IL
+<td width="50%" align="center" valign="middle">
+
+<img src="https://img.shields.io/badge/📚_Learning-0F172A?style=for-the-badge&labelColor=8B5CF6" height="28" />  
+<sub>Agentic AI · Kubernetes · System Design</sub>
+
 </td>
 </tr>
 </table>
