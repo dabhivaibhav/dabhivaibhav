@@ -4,7 +4,9 @@
 
 <br />
 
-**👋 Hi, I'm Vaibhav** — *Software Engineer · AI & ML · Backend & Cloud*
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=1200&color=22D3EE&background=0F172A&center=true&vCenter=true&width=420&height=52&lines=%24+Hi%2C+I'm+Vaibhav;%3E+Software+Engineer+%7C+AI+%26+ML+%7C+Backend+%26+Cloud" alt="CLI intro" />
+
+<br />
 
 **Building scalable systems & intelligent applications with Java, Python, Spring Boot, React, and AI/ML.**
 
@@ -14,22 +16,16 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/✦_Zero_Failure_Mindset_✦-8B5CF6?style=for-the-badge" alt="Mindset" />  
-*Every deployment inspires confidence · every interface guides the user*
+**Zero-Failure mindset** — *Every deployment inspires confidence · every interface guides the user*
 
 <br />
 
-| <img src="https://img.shields.io/badge/4%2B_Years-06B6D4?style=for-the-badge" /> | <img src="https://img.shields.io/badge/15%2B_Projects-8B5CF6?style=for-the-badge" /> | <img src="https://img.shields.io/badge/99%25_Focus-22D3EE?style=for-the-badge" /> |
-|:---:|:---:|:---:|
-| **Experience** | **Shipped** | **Quality** |
+| <img src="https://img.shields.io/badge/4%2B_Years-06B6D4?style=for-the-badge" /> | <img src="https://img.shields.io/badge/15%2B_Projects-8B5CF6?style=for-the-badge" /> | <img src="https://img.shields.io/badge/99%25_Focus-22D3EE?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Open_to_Work-06B6D4?style=for-the-badge&logo=linkedin&logoColor=0F172A" height="28" /> |
+|:---:|:---:|:---:|:---:|
+| **Experience** | **Shipped** | **Quality** | **Status** |
 
 <br />
 
-<img src="https://img.shields.io/badge/Open_to_Opportunities-06B6D4?style=for-the-badge&logo=linkedin&logoColor=0F172A" alt="Open to work" />
-
-<br />
-
-<img src="https://img.shields.io/badge/━━━_Quick_Nav_━━━-22D3EE?style=flat-square" alt="" />  
 [About](#-about-me) · [Focus](#-current-focus) · [Tech stack](#-some-tools-i-have-used-and-learned) · [Stats](#-github-stats) · [Projects](#-featured-projects) · [Experience](#-experience) · [Contact](#-lets-build-something)
 
 ---
