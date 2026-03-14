@@ -12,7 +12,7 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://vaibhavdabhi.vercel.app/) &nbsp; <a href="https://www.linkedin.com/in/vaibhav-dabhi/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a> &nbsp; [![Resume](https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=googledrive&logoColor=22D3EE)](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://vaibhavdabhi.vercel.app/) &nbsp; <a href="https://www.linkedin.com/in/vaibhav-dabhi/"><img src="https://cdn.simpleicons.org/linkedin/ffffff" width="24" height="24" alt="" /> <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge" alt="LinkedIn" /></a> &nbsp; [![Resume](https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=googledrive&logoColor=22D3EE)](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
 
 <br />
 
@@ -185,7 +185,7 @@ Ready to build software or AI/ML solutions? Get in touch.
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://vaibhavdabhi.vercel.app/) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vaibhav-dabhi/) &nbsp; [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:vaibhavdabhi.tech@gmail.com) &nbsp; [![Resume](https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=googledrive&logoColor=22D3EE)](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://vaibhavdabhi.vercel.app/) &nbsp; <a href="https://www.linkedin.com/in/vaibhav-dabhi/"><img src="https://cdn.simpleicons.org/linkedin/ffffff" width="24" height="24" alt="" /> <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge" alt="LinkedIn" /></a> &nbsp; [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:vaibhavdabhi.tech@gmail.com) &nbsp; [![Resume](https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=googledrive&logoColor=22D3EE)](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
 
 *Chicago, IL — Open to opportunities and collaborations.*
 
