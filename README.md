@@ -30,14 +30,6 @@
 
 ## ✦ About Me
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/High--Availability_Architect-06B6D4?style=flat-square&logo=server&logoColor=fff" height="26" /> &nbsp; <img src="https://img.shields.io/badge/Pedagogical_Leader-8B5CF6?style=flat-square&logo=book&logoColor=fff" height="26" />
-
-</div>
-
-<br />
-
 <table>
 <tr>
 <td width="50%" valign="top">
