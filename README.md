@@ -39,34 +39,46 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 
 **Discussion → Execution**  
 Planning, design & delivery  
-`Risk Assessment` `Stakeholder Communication` `Technical Documentation` `Sprint Planning` `Agile / Scrum` `System Design`
+⚠️ 📢 📄 📅 🔄 🏗️
 
 **Coding**  
 Languages, architecture & APIs  
-`Java` `Spring Boot` `Python` `TypeScript` `REST APIs` `DSA & Clean Architecture`
+☕ 🍃 🐍 📘 🔌 📐
 
 **Quality & Testing**  
 Reliability before ship  
-`TDD` `Integration Testing` `Code Reviews` `Performance Testing`
+✅ 🔗 👀 ⚡
 
 </td>
 <td width="50%">
 
 **Cloud & Infrastructure**  
 Scale, reliability & reach  
-`AWS` `Azure` `Kubernetes` `Docker` `Serverless` `Infrastructure as Code`
+☁️ 🔷 ☸️ 🐳 ⚡ 📜
 
 **Deployment & Ops**  
 Ship and run at scale  
-`CI/CD` `GitHub Actions` `Monitoring & Logging` `Auto-scaling`
+🔄 ⚙️ 📊 📈
 
 **AI / ML**  
 Intelligent systems & data  
-`Python` `Machine Learning` `TensorFlow` `Scikit-learn` `NLP` `Data Pipelines`
+🐍 🤖 🧠 📊 💬 🔀
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary>📌 Tech legend</summary>
+
+Discussion & Execution: Risk assessment · Communication · Docs · Sprint planning · Agile · System design  
+Coding: Java · Spring Boot · Python · TypeScript · REST APIs · Clean architecture  
+Quality: TDD · Integration testing · Code reviews · Performance testing  
+Cloud: AWS · Azure · Kubernetes · Docker · Serverless · IaC  
+Ops: CI/CD · GitHub Actions · Monitoring · Auto-scaling  
+AI/ML: Python · Machine learning · TensorFlow · Scikit-learn · NLP · Data pipelines
+
+</details>
 
 ---
 
@@ -88,12 +100,12 @@ Intelligent systems & data
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**ZenDSA**](https://zendsa.vercel.app/) | Spaced-repetition–driven DSA learning app. Structured by topics (recursion, DP, sliding window) for retention and interview readiness. | React, TypeScript, Java, Spring Boot, Docker, LLM |
-| [**Interview Management System**](https://github.com/dabhivaibhav/interview-management-system) | Full-stack app for 500+ weekly applications with JWT auth; reduced hiring cycle time by 30%. | Spring Boot, React, JWT, Docker, Kubernetes |
-| [**Revive And Rewear (RWR)**](https://github.com/dabhivaibhav/Revive_And_Rewear) | Scalable e-commerce platform with three role-specific dashboards and 2FA for secure transactions. | React, FastAPI, Python, MongoDB |
-| [**Network Device Detection via ML**](https://github.com/dabhivaibhav/MachineLearningIOTDeviceIdentification) | Supervised ML pipeline to classify IoT devices from PCAP data; 100% classification accuracy with Random Forest. | Python, Scapy, Pandas, Random Forest |
-| [**Workforce Software**](https://github.com/dabhivaibhav) | Payroll system with SQL scripts, triggers, and procedures; 25% faster processing, 30% fewer errors for 2,000+ employees. | SQL, Database Optimization, Compliance |
-| [**DSA Repository**](https://github.com/dabhivaibhav/dsa) | Structured archive of Data Structures & Algorithms in Java—clean solutions, edge cases, interview-style thinking. | Java, DSA Patterns, Problem-Solving |
+| [**ZenDSA**](https://zendsa.vercel.app/) | Spaced-repetition–driven DSA learning app. Structured by topics (recursion, DP, sliding window) for retention and interview readiness. | ⚛️ 📘 ☕ 🍃 🐳 🤖 |
+| [**Interview Management System**](https://github.com/dabhivaibhav/interview-management-system) | Full-stack app for 500+ weekly applications with JWT auth; reduced hiring cycle time by 30%. | 🍃 ⚛️ 🔑 🐳 ☸️ |
+| [**Revive And Rewear (RWR)**](https://github.com/dabhivaibhav/Revive_And_Rewear) | Scalable e-commerce platform with three role-specific dashboards and 2FA for secure transactions. | ⚛️ ⚡ 🐍 🍃 |
+| [**Network Device Detection via ML**](https://github.com/dabhivaibhav/MachineLearningIOTDeviceIdentification) | Supervised ML pipeline to classify IoT devices from PCAP data; 100% classification accuracy with Random Forest. | 🐍 📊 🌲 🤖 |
+| [**Workforce Software**](https://github.com/dabhivaibhav) | Payroll system with SQL scripts, triggers, and procedures; 25% faster processing, 30% fewer errors for 2,000+ employees. | 🗄️ 📈 📋 |
+| [**DSA Repository**](https://github.com/dabhivaibhav/dsa) | Structured archive of Data Structures & Algorithms in Java—clean solutions, edge cases, interview-style thinking. | ☕ 📐 🧩 |
 
 ---
 
