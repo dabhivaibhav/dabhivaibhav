@@ -14,6 +14,8 @@
 |:--------:|:------------:|:-----------------:|
 | Experience | Delivered | Client Focus |
 
+*⬇️ Scroll down to see my projects & stats*
+
 ---
 
 </div>
@@ -43,11 +45,27 @@ Bridging **distributed systems reliability** with **agentic orchestration** and 
 
 <div align="center">
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabhivaibhav&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Profile views](https://komarev.com/ghpvc/?username=dabhivaibhav&label=Profile%20views&color=0e75b6&style=flat)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dabhivaibhav&layout=compact&theme=radical&hide_border=true)
+[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabhivaibhav&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/dabhivaibhav)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dabhivaibhav&layout=compact&theme=radical&hide_border=true)](https://github.com/dabhivaibhav)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dabhivaibhav&theme=radical&hide_border=true)](https://github.com/dabhivaibhav)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dabhivaibhav&theme=radical&hide_border=true)
+*Note: Top languages is a metric of public repos only and does not reflect experience or skill level.*
+
+</div>
+
+<details>
+<summary><b>📈 Contribution activity</b></summary>
+<br />
+
+[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dabhivaibhav&theme=react-dark&hide_border=true)](https://github.com/dabhivaibhav)
+
+</details>
+
+<div align="center">
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=dabhivaibhav&column=7&theme=radical&no-frame=true&no-bg=true)
 
 </div>
 
@@ -101,3 +119,13 @@ Ready to build software or AI/ML solutions? Get in touch.
 [Portfolio](https://vaibhavdabhi.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vaibhav-dabhi/) · [Email](mailto:vaibhavdabhi.tech@gmail.com) · [Resume](https://drive.google.com/uc?export=download&id=14N2gR-mv2BcaXMOEjqwSq-Gk0MKIkJip)
 
 *Chicago, IL — Open to opportunities and collaborations.*
+
+---
+
+<div align="center">
+
+**Show some ❤️ by starring some of my repositories!**
+
+*Credits: [Vaibhav Dabhi](https://github.com/dabhivaibhav) · Inspired by [awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)*
+
+</div>
