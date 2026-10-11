@@ -59,7 +59,7 @@ Recent: patched an SSRF vulnerability in the LLM proxy layer, tightened overdue 
 **Google AI Fundamentals** — Google — Aug 2026  
 **Atlassian Agile Project Management** — Professional Certificate — Jan 2025
 
-[![AWS](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges) &nbsp; [![Atlassian](https://img.shields.io/badge/Atlassian_Agile_Project_Mgmt-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://www.atlassian.com/)
+[![AWS](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/) &nbsp; [![Atlassian](https://img.shields.io/badge/Atlassian_Agile_Project_Mgmt-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://www.atlassian.com/)
 
 ---
 
